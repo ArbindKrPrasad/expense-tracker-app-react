@@ -5,3 +5,8 @@
     width: 50rem;
     max-width: 95%;
   }
+.expenses__no-expenses {  
+  color: aliceblue;
+  display: block;
+  text-align: center;
+}
